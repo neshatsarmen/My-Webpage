@@ -4,14 +4,14 @@
 
  body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #f2f2f2;
+  background-color: #d1a8a6;
   font-size: 16px;
-  color: #f886d6;
+  color: #d1a8a6;
   font-weight: normal;
   letter-spacing: 0.03em;
 }
 a {
-  color: #f886d6;
+  color: rgb(0, 0, 0);
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -34,13 +34,13 @@ img {
   max-width: 100%;
 }
 .purple {
-  color: #f886d6;
+  color: #d1a8a6;
 }
 .pink {
-  color: #f886d6;
+  color: #d1a8a6;
 }
 .blue {
-  color: #f886d6;
+  color: #d1a8a6;
 }
 
 /* Hero Section */
@@ -50,7 +50,7 @@ header.hero {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: #f0e8e8;
+  color: #ffffff;
   padding-bottom: 80px;
 }
 
@@ -119,12 +119,12 @@ h4.sub-heading {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  color: #f886d6;
+  color: #d1a8a6;
 }
 h1.heading {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  color: #f886d6;
+  color: #d1a8a6;
   font-size: 3em;
   position: relative;
   padding-bottom: 10px;
@@ -142,10 +142,10 @@ h1.heading:after {
   width: 100px;
 }
 h1.heading.purple:after {
-  background-color: #f886d6;
+  background-color: #d1a8a6;
 }
 h1.heading.pink:after {
-  background-color: #f886d6;
+  background-color: #d1a8a6;
 }
 
 
@@ -280,8 +280,8 @@ h1.heading.pink:after {
 
 /* Contact Banner */
 .contact-banner {
-  background:  #ffb1e8 repeat;
-  color: #1a1616;
+  background:  #000000 repeat;
+  color: #ffffff;
   padding: 6em;
 }
 .contact-banner h1 {
@@ -295,25 +295,25 @@ h1.heading.pink:after {
 
 /* Footer */
 .footer {
-  background-color: #ffb1e8;
+  background-color: #000000;
   padding: 5em;
 }
 .footer h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   font-size: 3em;
-  color: #0f0f0f;
+  color: #ffffff;
   margin-bottom: 2em;
 }
 .footer h1 span {
-  color: #f886d6;
-  font-weight: 300;
+  color: #d1a8a6;
+  font-weight: 200;
 }
 .footer h1:after {
   content: '';
   width: 80px;
   height: 4px;
-  background-color: #f5f0f0;
+  background-color: #d1a8a6;
   display: block;
   position: absolute;
   left: 50%;
@@ -329,7 +329,7 @@ h1.heading.pink:after {
 
 /* Sub-footer */
 .sub-footer {
-  background-color: #ffb1e8;
+  background-color: #d1a8a6;
   padding: 2em;
   color: ffb1e8;
   font-family: 'Montserrat', sans-serif;
